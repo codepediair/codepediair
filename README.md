@@ -1,1 +1,1 @@
-![codepedia's GitHub Profile Header](./assets/header.GIF)
+![codepedia's GitHub Profile Header](./assets/header.svg)
